@@ -20,6 +20,8 @@ This seems like a good first RIP to sink our teeth into as a team.
 
 [React TS repo](https://github.com/odyssy-automaton/pepper4d-web)
 
+[netlify](https://gallant-poitras-fdcf56.netlify.com/)
+
 ![](https://i.imgur.com/DeeaOwH.jpg)
 screens lol (TODO)
 
