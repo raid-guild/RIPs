@@ -21,7 +21,7 @@ This seems like a good first RIP to sink our teeth into as a team.
 [React TS repo](https://github.com/odyssy-automaton/pepper4d-web)
 
 ![](https://i.imgur.com/DeeaOwH.jpg)
-hi-def screens lol
+screens lol (TODO)
 
 ## Raid Party Skills Needed
 
@@ -30,4 +30,4 @@ hi-def screens lol
 
 ## Cost (in USD)
 
-\$500-$1000
+\$1000

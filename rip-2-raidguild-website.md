@@ -16,6 +16,8 @@ We need a website to present our Guild to the world. Ways for potential clients 
 
 [Lore Content](https://docs.google.com/document/d/1TA5QEMSQUEHqnqihmRLFsc-iSQdSqS-9d-Xawu9wKUU/edit#)
 
+[Current Site](https://raidguild.org/)
+
 ## Raid Party Skills Needed
 
 - Design
