@@ -25,6 +25,40 @@ This seems like a good first RIP to sink our teeth into as a team.
 ![](https://i.imgur.com/DeeaOwH.jpg)
 screens lol (TODO)
 
+data availible from /player
+
+```
+{
+  "player": [
+    {
+      "id": 2,
+      "uid": "",
+      "username": "@yellowgang",
+      "gang": "@yellowgang",
+      "points": 359,
+      "debits": 0,
+      "actions": 1339,
+      "gangDebits": 980,
+      "updoots": 0,
+      "price": 50,
+      "timestamp": 1576275733288,
+      "weaponName": "none",
+      "weaponPower": "none",
+      "defenseName": "none",
+      "defensePower": "none",
+      "blingCount": 0,
+      "kidnapTime": "12/13/2019",
+      "decayedprice": 40.725312499999994
+    },
+```
+
+data availible from /action
+
+```
+TODO
+
+```
+
 ## Raid Party Skills Needed
 
 - Design
