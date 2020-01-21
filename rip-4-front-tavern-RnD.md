@@ -14,7 +14,7 @@ R&D on the front tavern. Things to consider, Client management, new recruit scou
 An immediate issue we have is that we do not have enough resources to manage it currently. Hopefully the Front Tavern can explore some solutions though new talent recruitment and project queues.
 
 ## Anything else you'd like to add?
-Some deliverables should be some SOPs and Docs on handling front tavern issues and 2 design/development resources joining the Raid)
+Some deliverables should be some SOPs and Docs on handling front tavern issues and 2-3 design/development resources joining the Raid)
 
 ## Raid Party Skills Needed
 Bard and Rouge
