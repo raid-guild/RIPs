@@ -17,7 +17,7 @@ An immediate issue we have is that we do not have enough resources to manage it 
 Some deliverables should be some SOPs and Docs on handling front tavern issues and 2-3 design/development resources joining the Raid)
 
 ## Raid Party Skills Needed
-Bard and Rouge
+Bard and Rogue
 
 ## Cost (in USD)
 \$400 (50 shares at current rate)
