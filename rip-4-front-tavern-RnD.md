@@ -7,8 +7,10 @@ Dekan.eth
 ## Summary
 R&D on the front tavern. Things to consider, Client management, new recruit scouting, applications and onboarding, and deal flow. Also to consider front tavern incentives through finders fees, or other mechanics.
 
-## Link
+## Links
 [Proposal](https://pokemol.com/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1/proposal/29)
+[User Journey](https://www.figma.com/file/pBy0balVJ9PUqcYhlVcqE4/Raid-Guild-User-Journey?node-id=0%3A1)
+
 
 ## Why should we build this?
 An immediate issue we have is that we do not have enough resources to manage it currently. Hopefully the Front Tavern can explore some solutions though new talent recruitment and project queues.
