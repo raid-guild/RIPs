@@ -9,6 +9,7 @@ R&D on the front tavern. Things to consider, Client management, new recruit scou
 
 ## Links
 [Proposal](https://pokemol.com/dao/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1/proposal/29)
+
 [User Journey](https://www.figma.com/file/pBy0balVJ9PUqcYhlVcqE4/Raid-Guild-User-Journey?node-id=0%3A1)
 
 
