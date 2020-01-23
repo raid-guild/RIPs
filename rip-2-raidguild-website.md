@@ -16,6 +16,10 @@ We need a website to present our Guild to the world. Ways for potential clients 
 
 [Lore Content](https://docs.google.com/document/d/1TA5QEMSQUEHqnqihmRLFsc-iSQdSqS-9d-Xawu9wKUU/edit#)
 
+[User Journey](https://www.figma.com/file/pBy0balVJ9PUqcYhlVcqE4/Raid-Guild-User-Journey?node-id=0%3A1)
+
+[Current Repo](https://github.com/raid-guild/dot-org)
+
 [Current Site](https://raidguild.org/)
 
 ## Raid Party Skills Needed
