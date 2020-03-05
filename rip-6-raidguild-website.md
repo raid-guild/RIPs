@@ -8,7 +8,7 @@ Dekan Brown
 
 There is no way built into Moloch V2 to run arbitrary functions from different contracts through a passing proposal. This could work through a 'shim' contract, through a funding proposal in V2 with 0 shares and 0 payment:
 
-1) Pass the hex data through the proposal data field itself. this could be a function that takes, moloch address, external contract address and proposal index.
+1) Pass the hex data through the proposal data field itself. THe shim contract has a function that takes, moloch address, external contract address and proposal index.
 
 Can provide a V1 shim POC that I was messing with
 
@@ -24,7 +24,7 @@ Deliverables:
 
 ## Why should we build this?
 
-This will let a Dao proposal make calles on other contracts, could be to claim reputation, mint NFT, make a proposal on another DAO.
+This will let a Dao proposal make calls on other contracts, could be to submit reputation, mint NFT, make a proposal on another DAO, etc. 
 
 ## Anything else you'd like to add?
 
