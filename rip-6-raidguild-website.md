@@ -31,7 +31,7 @@ This will let a Dao proposal make calls on other contracts, could be to submit r
 
 ## Raid Party Skills Needed
 
-Dark Mage and Light Mage
+Mage (solidity) and Warrior (Front end)
 
 ## Cost (in USD)
 
