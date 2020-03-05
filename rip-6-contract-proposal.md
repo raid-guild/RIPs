@@ -22,6 +22,8 @@ Deliverables:
 
 [Proposal](link here for pokemol proposal)
 
+![](https://i.imgur.com/WSHNVeo.jpg)
+
 ## Why should we build this?
 
 This will let a Dao proposal make calls on other contracts, could be to submit reputation, mint NFT, make a proposal on another DAO, etc. 
