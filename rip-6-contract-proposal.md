@@ -22,7 +22,7 @@ Deliverables:
 
 [Proposal](link here for pokemol proposal)
 
-![](https://i.imgur.com/WSHNVeo.jpg)
+![](https://i.imgur.com/ae4OvF2.jpg)
 
 ## Why should we build this?
 
