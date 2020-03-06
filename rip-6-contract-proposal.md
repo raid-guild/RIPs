@@ -14,6 +14,12 @@ There is no way built into Moloch V2 to run arbitrary functions from different c
 
 Can provide a V1 shim POC that I was messing with
 
+Moloch V2 uses internal balances and the pull patern to withdraw. So if we are trying to forward funds throught this contract. the flow could be with 2/3 transactions. 
+
+1) Create funding proposal with a payment token and payment ammount. Applicant would need to be the shim contract address
+2) Shim Process function then verifies that the users internal token balance is none and executes the transaction 
+3) may need a third tx in here for erc20 approvals
+
 Deliverables:
 
 1. Contract.
