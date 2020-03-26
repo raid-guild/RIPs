@@ -1,4 +1,4 @@
-# Moloch Contract Proposals
+# Moloch Contract (Minion) Proposals
 
 ### Project Submitted By
 
@@ -40,8 +40,8 @@ Mage (solidity) and Warrior (Front end)
 
 ## Cost (in USD)
 
-\~$1500
+\~10eth
 
 ## Available Reputation buyback 10%-20%
 
-40-80
+10-20
