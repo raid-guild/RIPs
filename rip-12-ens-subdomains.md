@@ -25,15 +25,10 @@ example: <memberName>.raidguild.eth subdomains
 
 ### Initial research:
 
-https://github.com/ensdomains/subdomain-registrar
-https://github.com/decentraland/avatars-contract
-
-
-### ens deployments (outdated)
-https://docs.ens.domains/ens-deployments 
-
-### ENS subgraph
-https://thegraph.com/explorer/subgraph/ensdomains/ens
+* https://github.com/ensdomains/subdomain-registrar
+* https://github.com/decentraland/avatars-contract
+* ens deployments (outdated) https://docs.ens.domains/ens-deployments 
+* ENS subgraph https://thegraph.com/explorer/subgraph/ensdomains/ens
 
 ### Minion interface idea
 
