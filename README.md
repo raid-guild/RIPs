@@ -1,5 +1,9 @@
-# Active-RIPs
-Registry of internal raidguild improvment projects
+# RIPs
+Registry of active internal raidguild improvment projects 
+
+**NOTE: If your RIP has not approved by the Guild DO NOT put it into the RIP folder, put into RIP-Requests.**
+
+Copy the [template.md](https://github.com/raid-guild/RIPs/blob/master/rip-1.md) 
 
 
 # RIP-Requests
