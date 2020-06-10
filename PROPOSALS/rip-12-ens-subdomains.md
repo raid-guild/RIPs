@@ -36,7 +36,12 @@ This could be interacted with by the generic minion submit form but Because this
 
 ![](https://i.imgur.com/AIQQTSp.jpg)
 
-![](https://i.imgur.com/ePWAP8d.png)
+![](https://i.imgur.com/Bu6BJBQ.png)
+
+### Notes
+
+minion can have a 'Owner' role to give/remove subdomains on a one off basis
+there can be a registerMember function which does not need a proposal, just does a check on the senders shares with parent dao.
 
 ## Raid Party Skills Needed
 
