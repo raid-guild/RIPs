@@ -36,6 +36,7 @@ This could be interacted with by the generic minion submit form but Because this
 
 ![](https://i.imgur.com/AIQQTSp.jpg)
 
+![](https://i.imgur.com/ePWAP8d.png)
 
 ## Raid Party Skills Needed
 
