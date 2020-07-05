@@ -36,4 +36,4 @@ Mockup
 
 18 shares for apprentice to test their metal
 
-This project is being done by two apprentieces @charingane (Archer) and @ukstv (Warrior) with my lead
+This project is being done by two apprentieces @charingane (Archer) and @ucefka (Warrior) with my lead
