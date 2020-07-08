@@ -25,9 +25,8 @@ We also have a stretch goal of Guild member registry and profiles if dev time re
 
 Here are some first pass UX sketches of portfolio and the profiles stretch goal:
 
-[img]https://i.imgur.com/PP2g0S1.jpg[/img]
-
-[img]https://i.imgur.com/yYVMs1y.jpg[/img]
+![alt text](https://i.imgur.com/PP2g0S1.jpg)
+![alt text](]https://i.imgur.com/yYVMs1y.jpg)
 
 ## Raid Party Skills Needed
 
