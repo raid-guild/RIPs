@@ -1,22 +1,38 @@
-** Copy this Template and fill to submit a project idea **
-
-# Project Idea
+# Hunting Party Part 1 - Get the money
 
 ### Project Submitted By
 
-Your Name
+@burrrata, @dekanbro, @Saimano, @scottrepreneur
 
 ## Summary
 
-This is a quick summary of the project idea.
+A client submission will require consultation deposit to be rewarded to the Member that completes the initial client consultation.
 
 ## Why should we build this?
 
-This is a breakdown of why you believe the Guild should spend resources to build this idea. Does it create revenue? Does it benefit the greater Eth ecosystem? Does it save humanity?
+The incentive to flesh out projects and follow-up on leads will drive additional raids.
+
+## Client Submission Form
+
+The client submission form submits to Airtable with the following fields:
+
+- Project Type
+- Project Name
+- Brief Summary
+- Do you have any functional documents / specs / mockups?
+- Skills Needed
+- Priorities
+- Relevant Link/URL
+
+## Consultation Deposit
+
+Goes to guild bank and will be deducted from final invoice.
 
 ## Anything else you'd like to add?
 
-Not at this time.
+[!Hero and CTA](https://i.imgur.com/tDBa8ml.png)
+
+Initial take: https://rg.on.fleek.co
 
 ## Raid Party Skills Needed
 
@@ -26,4 +42,4 @@ Not at this time.
 
 ## Cost (in USD)
 
-\$5000
+500 Dai
