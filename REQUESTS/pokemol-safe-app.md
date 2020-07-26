@@ -27,9 +27,11 @@ Likely only needs to support v2 Moloch architectures since the majority of new m
   - Ragekick
   - Ragequit
   - Change delegate key
+  - Sponsor proposal
+  - Process proposal
 - View balances
 - View internal balances
-- Summon a new Moloch (likely only needs to be for v2) from a Safe
+- Summon a new Moloch from a Safe
 
 # What is needed to accomplish your idea ?
 
