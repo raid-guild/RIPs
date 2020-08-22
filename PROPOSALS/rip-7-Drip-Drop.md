@@ -2,31 +2,31 @@
 # Project Idea
 
 Drip Drop contract for Moloch DAO. 
-# Project Submitted By
+## Project Submitted By
 
 Yalor
 
 
-# Summary
+## Summary
 
 Once the Drip Drop contract is setup members can apply to get their gas fees back for all DAO proposals. Some other use cases are setting monthly salaries for roles that are on-going and deemed neccesary to the Guild. 
 
 
-# Why should we build this?
+## Why should we build this?
 
 This contract will allow us to set some on-going monthly expenses easily and quickly, set and forget. 
 
 
-Anything else you'd like to add?
+## Anything else you'd like to add?
 
 This is something I am personally excited about because I spend a decent chunk on gas fees to approve proposals and have much ETH locked up in the DAO for sponsoring proposal. 
 Think it might encourage more folks to interact with the DAO as well if they wer able to get whitelisted for gas fee reimbursal. 
 
-Raid Party Skills Needed
+## Raid Party Skills Needed
 
 - Full Stack Dev
 
-Cost (in USD)
+## Cost (in USD)
 
 $430 +/- 
 
