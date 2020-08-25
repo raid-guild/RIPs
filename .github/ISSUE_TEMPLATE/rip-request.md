@@ -1,3 +1,11 @@
+---
+name: RIP Request
+about: Create a Raid Guild Improvement Project request
+title: ''
+labels: RIP
+assignees: ''
+---
+
 # Project Idea
 
 ### Project Submitted By
