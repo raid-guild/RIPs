@@ -1,0 +1,8 @@
+{
+    "org": "raid-guild",
+    "repo": "RIPs",
+    "tokenAddress": "0x4bbc860b82e70cb7af1fd50debb0143e0f53e016",
+    "labels": ["Proposals"],
+    "votingMethod": "QUADRATIC",
+    "chainId": 1,
+}
