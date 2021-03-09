@@ -30,7 +30,7 @@ others...
 ## Quest set in motion
 currently we have a rough sketch for next steps and have begun system design, asset design and tech architecture
 
-the proposal is for 6kDAI to create a intial POC that can start being used and iterating on this quarter
+the proposal is for 2 phases of 4kDAI to create a intial POC that can start being used and iterating on this quarter
 
 
 ## Breakdown
