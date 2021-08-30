@@ -27,6 +27,8 @@ _below are the reference amounts on initial distrobution_
 | raider | $20,461.73 | $110,497.78   | $140,236.71   | $231,747.54   | $2,139,420.74 |
 | client | $62,878.40 | $62,878.40    | $188,635.19   | $314,391.98   | $691,662.35   |
 
+## Address to receive the RAID
+
 ## Request Type
 _mark all that apply_
 - [ ] RAID Correction (fixing a mistake made on the drop)
