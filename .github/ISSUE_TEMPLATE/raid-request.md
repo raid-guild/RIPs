@@ -20,7 +20,7 @@ This is a quick summary of why we should be sending raid.
 
 \$5000
 
-_below are the reference amounts on initial distrobution_
+_below are the reference amounts on initial distribution
 
 | type   | min        | 25 percentile | 50 percentile | 75 percentile | max           |
 |--------|------------|---------------|---------------|---------------|---------------|
