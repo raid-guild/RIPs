@@ -17,7 +17,15 @@ A derivitive of the LOOT and Maps Project nfts and works as an extension to the 
 
 ### Project Submitted By
 
-Dekan Brown
+Dekan Brown (member)
+Sam Kuhlmann (member)
+Amos (member)
+LoLo (member)
+Tae  (member)
+Earth2Travis  (member)
+JP  (member)
+Isaac (cohort)
+Adrienne (cohort)
 
 ## Summary
 
