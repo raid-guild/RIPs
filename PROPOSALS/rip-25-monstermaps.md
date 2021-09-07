@@ -13,7 +13,7 @@ Awaken your desire for adventure, explore the wild places of the world, build yo
 ```
 Monster Maps and Monsters are a generative, text based, NFT game that builds on Loot’s unique system of adventure gear and adds a crucial element — Monsters and their locations, drawn on unique, generative maps.
 
-A derivitive of the LOOT and Maps Project nfts and works as an extension to the greater ecosystem of these projects that is forming.
+A derivitive of the LOOT and Maps Project nfts and works as an extension to the greater ecosystem of these projects that are forming.
 
 ### Project Submitted By
 
@@ -35,10 +35,12 @@ along with the contracts we built the initial framework to bootstrap the communi
 
 By Friday night the community was in full swing. the emergent nature of this project was creating a ton of amazing ideas. 
 
-By Monday night we have a active discord, 
+By Monday night 
+* an active discord
 * 6 quests and 2 narratives that build on collective story telling and emergent game design (blockchain DnD). 
 * A front end built and ready to be deployed
 * a subgraph in the works
+* design system in the works
 * 2 daohaus sub daos have formed (the artists of the realm and the cartographers guild)
 * 20% of total supply of NFTs have already been minted, even with the crazy gas prices of late
 
@@ -57,6 +59,7 @@ It's built :slight_smile: but we should continue building it.
 * discord chat in channel: rip-rg-pfp
 * Front end repo: https://github.com/raid-guild/monsters-maps-dapp
 * subgraph: https://thegraph.com/studio/subgraph/monstermaps/
+* design system: https://www.figma.com/file/MMqq2Flcyi53HCCW8wEzdK/Design-System?node-id=2%3A2
 
 some initial art
 
