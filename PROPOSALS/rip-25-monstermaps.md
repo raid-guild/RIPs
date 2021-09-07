@@ -6,7 +6,7 @@ labels: RIP
 assignees: ''
 ---
 
-# Project Idea
+# Monster Maps
 
 ```
 Awaken your desire for adventure, explore the wild places of the world, build your own legendary story.
