@@ -24,8 +24,8 @@ _below are the reference amounts on initial distribution
 
 | type   | min        | 25 percentile | 50 percentile | 75 percentile | max           |
 |--------|------------|---------------|---------------|---------------|---------------|
-| raider | $20,461.73 | $110,497.78   | $140,236.71   | $231,747.54   | $2,139,420.74 |
-| client | $62,878.40 | $62,878.40    | $188,635.19   | $314,391.98   | $691,662.35   |
+| raider | 20,461.73 RAID | 110,497.78 RAID   | 140,236.71 RAID   | 231,747.54 RAID   | 2,139,420.74 RAID |
+| client | 62,878.40 RAID | 62,878.40 RAID    | 188,635.19 RAID   | 314,391.98 RAID   | 691,662.35 RAID   |
 
 ## Address to receive the RAID
 
