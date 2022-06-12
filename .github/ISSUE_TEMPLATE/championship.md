@@ -2,7 +2,7 @@
 name: Championship
 about: Create a Raid Guild Champion request
 title: ''
-labels: Champion
+labels: 'Champion'
 assignees: ''
 ---
 
@@ -34,11 +34,13 @@ Not at this time.
 
 ## Success criteria
 
-Comment within this issue before moving to membership the realization of the
+Comment within this issue, before moving to membership, the realization of the
 following success criteria:
 
-1. Successfully join at least 1 raid or RIP. This include raids or RIPs
-   completed within the first 60 days as well as raids or RIPs still in progress
-   (provided the member is in good standing on that project).
-2. Attend at least 2 Guild meetings, including Roundtable and Raider Roundup.
-3. Demonstrate shared values with the Guild (at the discretion of the DAO).
+1. Apprentice period of 60 days.
+2. Successfully join at least 1 raid or RIP. This includes raids or RIPs
+   completed as well as raids or RIPs still in progress (provided the
+   apprentice is in good standing on that project).
+3. Attend at least 2 core Guild meetings, currently includes Roundtable, Raider
+   Roundup, or Token Talk.
+4. Demonstrate shared values with the Guild (at the discretion of the DAO).
