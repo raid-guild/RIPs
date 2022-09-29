@@ -1,6 +1,6 @@
 # RIPs
 
-Registry of internal Raid Guild Improvment Projects
+Registry of internal Raid Guild Improvement Projects
 
 ## Submitting an RIP Request
 
